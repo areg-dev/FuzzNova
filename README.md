@@ -24,7 +24,7 @@ outputs more relevant to the specific application. This Python script can be gre
 
 1. **Clone the repository:**
 ```chatinput
-git clone <repository-url>
+git clone https://github.com/areg-dev/FuzzNova.git
 cd FuzzNova
 ```
 
